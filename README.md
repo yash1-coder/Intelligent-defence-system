@@ -1,5 +1,9 @@
 # 🛡️ Intelligent Defence System
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 An **AI-powered Intelligent Defence System** for detecting and classifying cyber attacks using Machine Learning algorithms and data analysis in Jupyter Notebooks.
 
 ---
@@ -24,7 +28,7 @@ Cyber threats are growing at an unprecedented rate. This project leverages **Mac
 
         - **Language:** Python 3
         - - **Tools:** Jupyter Notebook
-          - - **Libraries:** scikit-learn, pandas, numpy, matplotlib (recommended)
+          - - **Libraries:** scikit-learn, pandas, numpy, matplotlib
            
             - ---
 
